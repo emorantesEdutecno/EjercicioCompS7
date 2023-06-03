@@ -15,7 +15,6 @@ const convertirFahrenheitACelsius = (tempFahrenheit)=>{
 
 };
 
-
 const convertirTemperatura = async ()=>{
     console.log('iniciando convertirTemperatura');
     let elParrafoCelsius = document.getElementById('celsius');
