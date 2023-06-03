@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(10, 186, 245);
+}
+#padre{
+    margin-top: 50px;
+}
+.card{
+    text-align: center;
+}
